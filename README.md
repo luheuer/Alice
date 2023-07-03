@@ -1,6 +1,6 @@
 # Alice
  My Submission for Intro to Unity.
- In This little project, which is more of a proof of Concept, I tried to adapt the classis "Alice in Wonderland" into a puzzle-platformer.
+ In This little project full name "ALice in Wonderland", which is more of a proof of Concept than a full game yet, I tried to adapt the classis "Alice in Wonderland" into a puzzle-platformer.
  We start of with not much platforming to be done, as we find our way through a maze.
  But soon Alice and by extension the Player finds themselves in the strange Wonderland in which nothing is as it seems.
  Grow and shrink by picking up different Items and find your Way through the somtimes deceiving parkour.
